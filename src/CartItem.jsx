@@ -32,6 +32,12 @@ function CartItem({ onContinueShopping }) {
     }
   };
 
+  
+  const handleContinueShopping = (e) => {
+    e.preventDefault();
+    onContinueShopping();
+  };
+
   const handleRemove = (item) => {
     dispatch(removeItem(item.name));
   };
