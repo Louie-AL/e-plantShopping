@@ -1,5 +1,7 @@
 # Paradise Nursery Shopping Application
 
+Github pages url: https://louie-al.github.io/e-plantShopping/
+
 This is a final project submission for the Full Stack Open course (React section). It is a plant shopping application called **Paradise Nursery**, built using React and Redux for state management.
 
 ## Features
